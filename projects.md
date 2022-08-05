@@ -19,7 +19,7 @@ Back to https://github.com/Kwangkee/personal
 - More details, https://github.com/Kwangkee/FL/blob/main/AFL.md
 
 ■ 스마트 사이니지
-- AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발 (iitp) https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2020-0-01907-002
+- AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발 (iitp), https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2020-0-01907-002
 - https://www.inews24.com/view/1479668  
 
 ## 실적  
