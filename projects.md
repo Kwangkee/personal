@@ -13,9 +13,10 @@ Back to https://github.com/Kwangkee/personal
 ■ 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발  
 - https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 
-■ [적응적 연합학습](https://github.com/Kwangkee/FL/blob/main/AFL.md)  
+■ 적응적 연합학습
 - 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (iitp 차세대인공지능핵심원천기술개발 사업), https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2021-0-00900-002    
 - 동적인 디바이스 환경에서 적응적 연합학습 기술, https://itfind.or.kr/publication/regular/weeklytrend/pastList/read.do?selectedId=1237  
+- More details, https://github.com/Kwangkee/FL/blob/main/AFL.md
 
 ■ 스마트 사이니지
 - AI 기반 비대면 문진 및 환자 상태 자동 분류를 위한 스마트 사이니지 기술개발 (iitp) https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2020-0-01907-002
