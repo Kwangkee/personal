@@ -29,7 +29,15 @@ Back to https://github.com/Kwangkee/personal
 
 ***
 It's My Life, https://www.youtube.com/watch?v=vx2u5uUu3DE  
+>It's my life
+>It's now or never
+>I ain't gonna live forever
+>I just want to live while I'm alive
+
 I'd Love to Change the World, https://www.youtube.com/watch?v=b24m6mCBn0E  
+>I'd love to change the world
+>But I don't know what to do
+>So I'll leave it up to you
 
 ***
 Back to https://github.com/Kwangkee/personal
