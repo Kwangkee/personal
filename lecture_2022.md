@@ -9,4 +9,4 @@
 |5|Case study: 연합학습의 Digital Healthcare 분야 적용|발표: rPPG 개요|실습: rPPG|김대열|
 |6|Case study: 연합학습의 medical 분야 적용|발표: 원격임상시험 D-3 개요|실습: ???|양세모|
 |7|Case study: 블록체인 융합 연합학습, |발표: BC 개요|실습: Ethereum Simulator, Solidity|고은수|
-|8|Case study: 블록체인 융합 연합학습, |발표: 실습: 2CP Simulator|고은수|
+|8|Case study: 블록체인 융합 연합학습, |발표: BCFL 개요|실습: 2CP Simulator|고은수|
