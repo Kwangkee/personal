@@ -1,5 +1,5 @@
 
-원격임상시험
+원격임상시험과제
 
 회계/운영 담당자
 -	이노피아테크: '이희운' hulee@innopiatech.com, 서은미 dmsal216@innopiatech.com
