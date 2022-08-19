@@ -1,12 +1,15 @@
 
+
+http://cs330.stanford.edu/
+
 ***
 ## 1주
 #### 강사   
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 - 연합학습 소개, https://github.com/Kwangkee/FL 
 #### 조교
-- [발표] DNN 개요
-- [실습] PyTorch/TF 소개/설치, Tutorial/Sample code 
+- [발표] DNN 리뷰
+- [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
 ***
 ## 2주
