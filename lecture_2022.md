@@ -1,9 +1,16 @@
 
 ## 1주
-[강사] FL Introduction, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
-[조교: 김대열 박사] DNN 개요, PyTorch/TF 소개/설치, DNN Tutorial/Sample
+[강사: 이광기]   
+- 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
+- 연합학습 소개, https://github.com/Kwangkee/FL 
+[조교: 김대열 박사] 
+- DNN 개요
+- PyTorch/TF 소개/설치, Tutorial/Sample code
 
 ## 2주
+[수강생 발표: ??] https://github.com/Kwangkee/FL/blob/main/FL@Intro.md
+[강사: 이광기] 
+[조교: 김진수] 
 
 ## 3주
 
