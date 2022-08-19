@@ -1,6 +1,7 @@
 
 ## 1주
-FL Introduction, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction
+[강사] FL Introduction, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
+[조교: 김대열 박사] DNN 개요, PyTorch/TF 소개/설치, DNN Tutorial/Sample
 
 ## 2주
 
@@ -9,7 +10,7 @@ FL Introduction, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introdu
 
 |주차|수업내용|조교 발표|실습|담당조교|
 |---|---|---|--|--|
-|1|강의: 연합학습 소개,|발표: DNN 개요|실습: Git 계정, PyTorch 설치, Tutorial/Sample 수행|김대열, 양세모|
+|1|강의: 연합학습 소개,|발표: DNN 개요, PyTorch/TF 소개, DNN 환경|실습: Git 계정, PyTorch 설치, Tutorial/Sample 수행|김대열, 양세모|
 |2|강의: 연합학습 Open Source Platform|발표: Flower (연합학습 Open Source Platform) 개요|실습: 설치, Tutorial/Sample 수행|김진수, 양세모|
 |3|강의: 연합학습 Public Data, Benchmarking|발표: 개요|실습: 설치, Sample 수행|김진수|
 |4|Case Study: 동적인 디바이스 환경에서 적응적 연합학습기술|발표: 개요|실습: 적응적 연합학습|김진수|
