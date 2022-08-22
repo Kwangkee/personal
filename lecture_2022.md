@@ -24,26 +24,34 @@ http://cs330.stanford.edu/
 - [학생#2 발표] https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#survey
 #### 강사   
 - 연합학습 Open Source Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
+- 연합학습 Public Data, Benchmarking 개요, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 #### 조교
-- [발표] Flower, FedScale 개요
-- [실습] Flower, FedScale 설치, Tutorial/Sample code 
+- [발표] Flower, Benchmark, Public Data 개요
+- [실습] Flower, Benchmark 설치, Tutorial/Sample code 
 
 ***
 ## 3주
-#### 학생#1
-- [발표] 
+#### 학생
+- [학생#1 발표] Flower 사용기, 실습 결과
+- [학생#2 발표] Benchmark 사용기, 실습 결과
 #### 강사   
-- 
+- 연합학습 이슈 : Data/System Heterogeniety, Non-IID, Personalized FL
+- 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
+- https://github.com/Kwangkee/FL/blob/main/FL%40Nanyang.md#towards-personalized-federated-learning
+- https://laidd.org/my/lesson/course/130/lecture/333?no=5
+- https://laidd.org/my/lesson/course/130/lecture/333?no=6
+- https://laidd.org/my/lesson/course/130/lecture/333?no=7
 #### 조교
-- [발표] 
-- [실습]
+- [발표] 연합학습 Public Data, Benchmarking 개요
+- [실습] 연합학습 Public Data, Benchmarking 설치, Tutorial/Sample code 
 
 ## 4주
-#### 학생#1
-#### 학생#1
-- [발표] 
+#### 학생
+- [학생#1 발표] Benchmarking 실습 결과
+- [학생#2 발표] Benchmarking 실습 결과
 #### 강사   
-- 
+
+
 #### 조교
 - [발표] 
 - [실습]
@@ -55,10 +63,13 @@ http://cs330.stanford.edu/
 #### 강사   
 - 
 #### 조교
-- [발표] 
-- [실습]
+- [발표] rPPG 개요
+- [실습] rPPG 실습
 
 
+
+- [Invited Talk] KAIST MetaSense, FedBalancer
+- 
 
 
 ***
