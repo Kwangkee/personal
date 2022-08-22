@@ -55,6 +55,7 @@ http://cs330.stanford.edu/
 ## 5주
 #### 강의 (교수)  
 - 연합학습의 Digital Healthcare 분야 적용, https://github.com/Kwangkee/rPPG
+- 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 #### 실습 (조교)
 - [발표] rPPG 개요
 - [실습] rPPG 실습
@@ -69,7 +70,6 @@ http://cs330.stanford.edu/
 - [실습] PoC 결과
 #### 학생 발표
 - [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
-
 
 ## 7주
 #### 강의 (교수)  
@@ -90,8 +90,8 @@ http://cs330.stanford.edu/
 - [학생#1 발표] 
 
 
+[etc]
 - [Invited Talk] KAIST MetaSense, FedBalancer
-- 
 
 
 ***
