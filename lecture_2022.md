@@ -19,8 +19,9 @@ http://cs330.stanford.edu/
 
 ***
 ## 2주
-#### 학생#1
-- [발표] https://github.com/Kwangkee/FL/blob/main/FL@Intro.md 
+#### 학생
+- [학생#1 발표] https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#google-papers
+- [학생#2 발표] https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#survey
 #### 강사   
 - 연합학습 Open Source Platform, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 #### 조교
