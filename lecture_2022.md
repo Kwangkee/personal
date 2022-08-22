@@ -17,6 +17,7 @@ Instructor: 이광기 (Kwangkee Lee)
 ***
 ## 1주
 #### 강의 (교수)  
+- 강의 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 - 연합학습 소개, https://github.com/Kwangkee/FL 
 - 연합학습 기초, https://www.laidd.org/course/105
@@ -40,7 +41,9 @@ Instructor: 이광기 (Kwangkee Lee)
 #### 강의 (교수)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
-- 연합 학습 연구 동향, 7강. Personalization in Federated Learning, https://laidd.org/my/lesson/course/130/lecture/333?no=7
+- [Optional] CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
+- [Optional] Stanford CS330: Deep Multi-Task and Meta Learning, https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+- [Optional] 연합 학습 연구 동향, 7강. Personalization in Federated Learning, https://laidd.org/my/lesson/course/130/lecture/333?no=7
 #### 실습 (조교)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
