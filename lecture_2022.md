@@ -13,6 +13,7 @@ http://cs330.stanford.edu/
 #### 강의 (교수)  
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 - 연합학습 소개, https://github.com/Kwangkee/FL 
+- 연합학습 기초, https://www.laidd.org/course/105
 #### 실습 (조교)
 - [발표] DNN 리뷰
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
@@ -33,9 +34,7 @@ http://cs330.stanford.edu/
 #### 강의 (교수)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
-- https://laidd.org/my/lesson/course/130/lecture/333?no=5
-- https://laidd.org/my/lesson/course/130/lecture/333?no=6
-- https://laidd.org/my/lesson/course/130/lecture/333?no=7
+- 연합 학습 연구 동향, 7강. Personalization in Federated Learning, https://laidd.org/my/lesson/course/130/lecture/333?no=7
 #### 실습 (조교)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
