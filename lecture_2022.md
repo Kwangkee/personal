@@ -8,6 +8,12 @@ https://biods220.stanford.edu/lectures/lecture14.pdf
 https://ai.stanford.edu/~cbfinn/  
 http://cs330.stanford.edu/
 
+
+Instructor: 이광기 (Kwangkee Lee)
+연락처: kwangkeelee@gmail.com
+- 본 class 에 기대하는 바, 제안 사항 메일 주시기 바랍니다. (1주차) 
+- 질문, 제안 언제든 주시기 바랍니다.
+
 ***
 ## 1주
 #### 강의 (교수)  
