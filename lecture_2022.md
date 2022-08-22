@@ -1,5 +1,4 @@
 
-Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 https://biods220.stanford.edu/
 Lecture 14	Nov 15 (Mon)	Distributed Learning, Security, and Privacy	lecture14.pdf
 https://biods220.stanford.edu/lectures/lecture14.pdf  
