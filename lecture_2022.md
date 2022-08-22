@@ -9,6 +9,8 @@ https://ai.stanford.edu/~cbfinn/
 http://cs330.stanford.edu/
 
 
+강의 소개, https://github.com/Kwangkee/personal/blob/main/%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%9D%B4%EA%B4%91%EA%B8%B0_2022%EB%85%842%ED%95%99%EA%B8%B0_20220810.pdf
+
 Instructor: 이광기 (Kwangkee Lee)
 연락처: kwangkeelee@gmail.com
 - 본 class 에 기대하는 바, 제안 사항 메일 주시기 바랍니다. (1주차) 
@@ -18,7 +20,6 @@ Instructor: 이광기 (Kwangkee Lee)
 ***
 ## 1주
 #### 강의 (교수)  
-- 강의 소개, https://github.com/Kwangkee/personal/blob/main/%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%9D%B4%EA%B4%91%EA%B8%B0_2022%EB%85%842%ED%95%99%EA%B8%B0_20220810.pdf
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 - 연합학습 소개, https://github.com/Kwangkee/FL 
 - [Optional Reading] 연합학습 기초, https://www.laidd.org/course/105
