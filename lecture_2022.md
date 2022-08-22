@@ -26,6 +26,7 @@ Instructor: 이광기 (Kwangkee Lee)
 ## 2주
 #### 강의 (교수)  
 - 연합학습 Open Source Platform  https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
+- [Optional] Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 #### 실습 (조교)
 - [발표] Flower, FedScale 소개
 - [실습] Flower 설치, Tutorial/Sample code
@@ -38,6 +39,7 @@ Instructor: 이광기 (Kwangkee Lee)
 #### 강의 (교수)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
+- [Optional] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
 #### 실습 (조교)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
@@ -95,6 +97,7 @@ Instructor: 이광기 (Kwangkee Lee)
 
 [etc]
 - [Invited Talk] KAIST MetaSense, FedBalancer
+- Stanford MLSys Seminar Series, https://mlsys.stanford.edu/
 - CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
 
 
