@@ -1,9 +1,4 @@
 
-https://biods220.stanford.edu/
-Lecture 14	Nov 15 (Mon)	Distributed Learning, Security, and Privacy	lecture14.pdf
-https://biods220.stanford.edu/lectures/lecture14.pdf  
-
-
 강의 소개, https://github.com/Kwangkee/personal/blob/main/%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%9D%B4%EA%B4%91%EA%B8%B0_2022%EB%85%842%ED%95%99%EA%B8%B0_20220810.pdf
 
 Instructor: 이광기 (Kwangkee Lee)
@@ -98,7 +93,8 @@ Instructor: 이광기 (Kwangkee Lee)
 - [Invited Talk] KAIST MetaSense, FedBalancer
 - Stanford MLSys Seminar Series, https://mlsys.stanford.edu/
 - CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
-
+- BIODS220 (CS271, BIOMEDIN220) Artificial Intelligence in Healthcare, https://biods220.stanford.edu/
+> Lecture 14	Nov 15 (Mon)	Distributed Learning, Security, and Privacy	lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf  
 
 ***
 |주차|수업내용|조교 발표|실습|담당조교|
