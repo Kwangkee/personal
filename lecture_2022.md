@@ -64,6 +64,7 @@ Instructor: 이광기 (Kwangkee Lee)
 ## 6주
 #### 강의 (교수)  
 - 연합학습의 medical 분야 적용, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md
+- [Optional] Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 #### 실습 (조교)
 - [발표] 원격임상시험 D-3 개요
 - [실습] PoC 결과
