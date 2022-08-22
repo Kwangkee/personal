@@ -94,7 +94,7 @@ Instructor: 이광기 (Kwangkee Lee)
 - [Invited Talk] KAIST MetaSense, FedBalancer
 - Stanford MLSys Seminar Series, https://mlsys.stanford.edu/
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/
->- 10-605/10-805: ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
+>10-605/10-805: ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
 >- Aug 31	Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)
 >- Nov 23	Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), [video](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e987cd72-7681-403a-942b-ade9014cd267))
 - CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
