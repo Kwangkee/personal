@@ -5,10 +5,6 @@ Lecture 14	Nov 15 (Mon)	Distributed Learning, Security, and Privacy	lecture14.pd
 https://biods220.stanford.edu/lectures/lecture14.pdf  
 
 
-https://ai.stanford.edu/~cbfinn/  
-http://cs330.stanford.edu/
-
-
 강의 소개, https://github.com/Kwangkee/personal/blob/main/%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%9D%B4%EA%B4%91%EA%B8%B0_2022%EB%85%842%ED%95%99%EA%B8%B0_20220810.pdf
 
 Instructor: 이광기 (Kwangkee Lee)
@@ -22,7 +18,6 @@ Instructor: 이광기 (Kwangkee Lee)
 #### 강의 (교수)  
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 - 연합학습 소개, https://github.com/Kwangkee/FL 
-- [Optional Reading] 연합학습 기초, https://www.laidd.org/course/105
 #### 실습 (조교)
 - [발표] DNN 리뷰
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
@@ -43,9 +38,6 @@ Instructor: 이광기 (Kwangkee Lee)
 #### 강의 (교수)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
-- [Optional Reading] CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
-- [Optional Reading] Stanford CS330: Deep Multi-Task and Meta Learning, https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
-- [Optional Reading] 연합 학습 연구 동향, 7강. Personalization in Federated Learning, https://laidd.org/my/lesson/course/130/lecture/333?no=7
 #### 실습 (조교)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
@@ -103,6 +95,7 @@ Instructor: 이광기 (Kwangkee Lee)
 
 [etc]
 - [Invited Talk] KAIST MetaSense, FedBalancer
+- CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
 
 
 ***
