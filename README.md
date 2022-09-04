@@ -1,5 +1,3 @@
-# personal
-
 Back to https://github.com/Kwangkee/personal
 ***
   
