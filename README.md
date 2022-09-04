@@ -2,14 +2,14 @@ Back to https://github.com/Kwangkee/personal
 ***
   
 ## List
-[과제](#과제)  
+[Projects](#projects)  
 [실적](#실적)  
-[논문](#논문), Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ     
+[Papers](#papers), Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ     
 [기고](#기고)  
 
 ***   
 
-## 과제
+## Projects
 ■ 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발  
 - https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 
@@ -28,7 +28,7 @@ Back to https://github.com/Kwangkee/personal
    - Youtube : https://youtu.be/7eJ2SOdG7fs   
    - Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp
 
-## 논문  
+## Papers  
 - [논문] Assessment of ROI Selection for Facial Video-Based rPPG(MDPI Sensors 2021):  [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/1424-8220/21/23/7923  
 - [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582 
 - [논문] MovieDIRec: Drafted-Input-Based Recommendation System for Movies (MDPI Appl. Sci. 2021): [T3-2] 콘텐츠 서비스 분야에서 개인맞춤형 추천 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/2076-3417/11/21/10412  
