@@ -6,6 +6,7 @@ Back to https://github.com/Kwangkee/personal
 [Deliverables](#deliverables)  
 [Papers](#papers), Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ     
 [Articles](#articles)  
+[Lecture](#lecture)  
 
 ***   
 
@@ -40,6 +41,10 @@ Back to https://github.com/Kwangkee/personal
 - KEIT PD 이슈리포트 2018-9월호 : 이슈5(디지털 트윈 기술 발전방향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=J8qjt9Qs306FsGYcyD1Aww%3D%3D&cryptoPassYn=N  
 - KEIT PD 이슈리포트 2017-2호-이슈3 (에너지 자립형 IoT 디바이스 플랫폼 기술 동향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=gJdginUZZz0VyTj7M4b1gg%3D%3D&cryptoPassYn=N  
 - KEIT PD 이슈리포트 2016-9호-이슈4 (IoT 디바이스 플랫폼 기술 동향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=92AHY7SgnyYz9dJ3qZS%2B2w%3D%3D&cryptoPassYn=N  
+## Lecture
+
+연합학습 기반 인공지능응용, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md  
+
 
 ***
 Back to the [Top](#list)  
