@@ -4,7 +4,7 @@ Back to https://github.com/Kwangkee/personal
 ## List
 [과제](#과제)  
 [실적](#실적)  
-[논문](#논문)  
+[논문](#논문), Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ     
 [기고](#기고)  
 
 ***   
