@@ -3,9 +3,15 @@
 ***
 Bojan Karlaš (Bojan Karlas), https://scholar.google.com/citations?user=Uv7RWgkAAAAJ&hl=en&oi=ao
 
-A data quality-driven view of mlops, https://arxiv.org/abs/2102.07750
+## A data quality-driven view of mlops, https://arxiv.org/abs/2102.07750  
 
-Data Systems for Managing and Debugging Machine Learning Workflows, https://www.research-collection.ethz.ch/handle/20.500.11850/554603
+Developing machine learning models can be seen as a process similar to the one established for traditional software development. A key difference between the two lies in the strong dependency between the quality of a machine learning model and the quality of the data used to train or perform evaluations.   
+In this work, we demonstrate how different aspects of data quality propagate through various stages of machine learning development. By performing a joint analysis of the impact of well-known data quality dimensions and the downstream machine learning process, we show that different components of a typical MLOps pipeline can be efficiently designed, providing both a technical and theoretical perspective.  
+
+머신 러닝 모델을 개발하는 것은 전통적인 소프트웨어 개발을 위해 확립된 프로세스와 유사한 프로세스로 볼 수 있다. 둘 사이의 핵심 차이는 기계 학습 모델의 품질과 평가를 훈련하거나 수행하는 데 사용되는 데이터의 품질 사이의 강한 의존성에 있다.  
+이 작업에서, 우리는 머신 러닝 개발의 다양한 단계를 통해 데이터 품질의 다양한 측면이 어떻게 전파되는지 보여준다. 잘 알려진 데이터 품질 차원과 다운스트림 기계 학습 프로세스의 영향에 대한 공동 분석을 수행하여 일반적인 MLOps 파이프라인의 다양한 구성 요소를 효율적으로 설계하여 기술적 및 이론적 관점을 모두 제공할 수 있음을 보여준다.  
+
+## Data Systems for Managing and Debugging Machine Learning Workflows, https://www.research-collection.ethz.ch/handle/20.500.11850/554603
 
 >This thesis aims to tackle the usability problem of modern machine learning systems. This involves taking a broader view which goes beyond the model training part of the ML workflow and developing a system for managing this workflow. This broader workflow includes the data preparation process which comes before model training, as well model management which comes after. We seek to identify various pitfalls and pain points that developers encounter in these ML workflows.  
 >이 광범위한 워크플로우는 모델 교육 전에 수행되는 데이터 준비 프로세스와 그 이후에 수행되는 모델 관리를 포함합니다. 우리는 개발자들이 이러한 ML 워크플로우에서 겪는 다양한 함정과 문제점을 식별하고자 한다.  
