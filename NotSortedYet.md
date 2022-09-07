@@ -1,4 +1,8 @@
 
+***
+연합학습시스템에서의 MLOps 구현 방안 연구, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002856114
+
+***
 
 ***
 Bojan Karlaš (Bojan Karlas), https://scholar.google.com/citations?user=Uv7RWgkAAAAJ&hl=en&oi=ao
