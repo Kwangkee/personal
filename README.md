@@ -48,6 +48,7 @@ Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ
 연합학습 기반 인공지능응용, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md  
 
 
+
 ***
 Back to the [Top](#list)  
 Back to https://github.com/Kwangkee/personal
