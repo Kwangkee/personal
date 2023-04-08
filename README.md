@@ -32,10 +32,12 @@ Back to https://github.com/Kwangkee/personal
 ## Papers  
 Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ     
 
-- [논문] Assessment of ROI Selection for Facial Video-Based rPPG(MDPI Sensors 2021):  [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/1424-8220/21/23/7923  
+- [논문] 블록체인 기반 연합학습을 위한 레퍼런스 아키텍처, https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11174565
+- [Paper] A Study of Projection-Based Attentive Spatial–Temporal Map for Remote Photoplethysmography Measurement, https://www.mdpi.com/2306-5354/9/11/638 
+- [Paper] Assessment of ROI Selection for Facial Video-Based rPPG(MDPI Sensors 2021):  [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/1424-8220/21/23/7923  
 - [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582 
-- [논문] MovieDIRec: Drafted-Input-Based Recommendation System for Movies (MDPI Appl. Sci. 2021): [T3-2] 콘텐츠 서비스 분야에서 개인맞춤형 추천 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/2076-3417/11/21/10412  
-- [논문] Methods for Improving Deep Learning-Based Cardiac Auscultation Accuracy: Data Augmentation and Data Generalization, https://www.mdpi.com/2076-3417/11/10/4544 
+- [Paper] MovieDIRec: Drafted-Input-Based Recommendation System for Movies (MDPI Appl. Sci. 2021): [T3-2] 콘텐츠 서비스 분야에서 개인맞춤형 추천 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/2076-3417/11/21/10412  
+- [Paper] Methods for Improving Deep Learning-Based Cardiac Auscultation Accuracy: Data Augmentation and Data Generalization, https://www.mdpi.com/2076-3417/11/10/4544 
 
 ## Articles
 - IITP, 인공지능 기술청사진 2030 2차년도 보고서, https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5248&count=true  
