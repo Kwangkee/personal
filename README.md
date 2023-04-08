@@ -30,7 +30,7 @@ Back to https://github.com/Kwangkee/personal
    - Android App : http://apps.samsung.com/betastore/openAppDetail.as?appId=com.tvs.vitalapp
 
 ## Papers  
-Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ     
+Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ&view_op=list_works&sortby=pubdate
 
 - [논문] 블록체인 기반 연합학습을 위한 레퍼런스 아키텍처, https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11174565
 - [Paper] A Study of Projection-Based Attentive Spatial–Temporal Map for Remote Photoplethysmography Measurement, https://www.mdpi.com/2306-5354/9/11/638 
@@ -45,10 +45,10 @@ Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ
 - KEIT PD 이슈리포트 2018-9월호 : 이슈5(디지털 트윈 기술 발전방향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=J8qjt9Qs306FsGYcyD1Aww%3D%3D&cryptoPassYn=N  
 - KEIT PD 이슈리포트 2017-2호-이슈3 (에너지 자립형 IoT 디바이스 플랫폼 기술 동향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=gJdginUZZz0VyTj7M4b1gg%3D%3D&cryptoPassYn=N  
 - KEIT PD 이슈리포트 2016-9호-이슈4 (IoT 디바이스 플랫폼 기술 동향), http://pdf.keit.re.kr/sd7/view?permission=p&elementId=92AHY7SgnyYz9dJ3qZS%2B2w%3D%3D&cryptoPassYn=N  
+
 ## Lectures
-
-연합학습 기반 인공지능응용, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md  
-
+- 연합학습, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md  
+- 스마트서비스, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md
 
 
 ***
