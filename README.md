@@ -54,5 +54,3 @@ Google Scholar, https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ&vie
 ***
 Back to the [Top](#list)  
 Back to https://github.com/Kwangkee/personal
-
-https://kwangkee.github.io/
