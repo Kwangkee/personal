@@ -4,7 +4,7 @@ Back to https://github.com/Kwangkee/personal
 ## List
 [Projects](#projects)  
 [Deliverables](#deliverables)  
-[Papers](#papers)  
+[Papers](#deliverables)  
 [Articles](#articles)  
 [Lectures](#lectures)  
 
