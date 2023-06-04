@@ -24,9 +24,8 @@ Back to https://github.com/Kwangkee/personal
 - https://www.inews24.com/view/1479668  
 
 ## Papers  
-
 - [Google Scholar] https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ&view_op=list_works&sortby=pubdate   
-
+####
 - [논문] 블록체인 기반 연합학습을 위한 레퍼런스 아키텍처, https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11174565
 - [Paper] A Study of Projection-Based Attentive Spatial–Temporal Map for Remote Photoplethysmography Measurement, https://www.mdpi.com/2306-5354/9/11/638 
 - [Paper] Assessment of ROI Selection for Facial Video-Based rPPG(MDPI Sensors 2021):  [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/1424-8220/21/23/7923  
