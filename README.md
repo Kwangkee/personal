@@ -25,6 +25,10 @@ Back to https://github.com/Kwangkee/personal
 
 ## Papers  
 - [Google Scholar] https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ&view_op=list_works&sortby=pubdate   
+***
+
+## Papers  
+- [Google Scholar] https://scholar.google.com/citations?hl=en&user=V4mg3H8AAAAJ&view_op=list_works&sortby=pubdate   
 ####
 - [논문] 블록체인 기반 연합학습을 위한 레퍼런스 아키텍처, https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11174565
 - [Paper] A Study of Projection-Based Attentive Spatial–Temporal Map for Remote Photoplethysmography Measurement, https://www.mdpi.com/2306-5354/9/11/638 
